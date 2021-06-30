@@ -24,6 +24,9 @@ MonoBehaviour:
     1.Go right
 
     2.Go left'
+  choiceText1: Go Right
+  choiceText2: Go Left
   nextState:
   - {fileID: 11400000, guid: 116af2456fcd03e4695d50f5b0d8eb08, type: 2}
   Sound: {fileID: 8300000, guid: 1b79e415e63b92a45b5e8f1125b933cc, type: 3}
+  sprite: {fileID: 21300000, guid: 36ef2f714a5ea8943a9b5081172ab5c0, type: 3}

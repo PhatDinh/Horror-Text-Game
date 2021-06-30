@@ -7,12 +7,20 @@ using UnityEngine.UI;
 public class State : ScriptableObject
 {
     [TextArea(10,14)] [SerializeField] string storyText;
+    [SerializeField] string choiceText1;
+    [SerializeField] string choiceText2;
     [SerializeField] State[] nextState;
     [SerializeField] AudioClip Sound;
     [SerializeField] Sprite sprite;
     public string getStateStory()
     {
         return storyText;
+    }
+    
+    public string getChoice(int t)
+    {
+        if (t == 1) return choiceText1;
+        return choiceText2;
     }
 
     public State[] getNextStates()

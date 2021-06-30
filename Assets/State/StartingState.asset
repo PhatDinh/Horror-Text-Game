@@ -27,7 +27,10 @@ MonoBehaviour:
     walking
 
     2. Call your friend'
+  choiceText1: Keep walking
+  choiceText2: Call your friend
   nextState:
   - {fileID: 11400000, guid: 1965dba11ebe9bc42b3cbe612db3bc8b, type: 2}
-  - {fileID: 11400000, guid: 116af2456fcd03e4695d50f5b0d8eb08, type: 2}
+  - {fileID: 11400000, guid: 3946ab752590dc44594790c8c8a37215, type: 2}
   Sound: {fileID: 8300000, guid: e0c30b3ef5f6b1a43b27d969d7c083cd, type: 3}
+  sprite: {fileID: 21300000, guid: 8d8f022c910a97a44b9dab69e2ae4d80, type: 3}
