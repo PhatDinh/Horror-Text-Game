@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnd-Doll-A
+  m_EditorClassIdentifier: 
+  storyText: Despite the doll's best efforts, you don't look, but the temptation
+    is horrible. You just need the doll's awful words to be over, but if you look,
+    you know it will mean certain death. "That's ok," the doll says with its evil,
+    childish voice. "Don't look. I'll just keep coming back night after night after
+    night. And maybe you won't look tonight or tomorrow night. Maybe not even a month
+    from now or even years. But one day, I'll wear you down, and you'll look. And
+    then... on that glorious night... I'll eat your soul."
+  choiceText1: 
+  choiceText2: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

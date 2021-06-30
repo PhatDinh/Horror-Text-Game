@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: Doll-B
+  m_EditorClassIdentifier: 
+  storyText: "\"No!\" you scream, refusing to open your eyes. This nightmare continues
+    for hours upon hours, and the doll's voice never stops whispering those terrible
+    things. Yet you stay strong, and somehow make it until morning. As the sun rises,
+    the doll's voice begins to fade until you can't hear anything anymore. After
+    you're sure the doll is gone, you open your eyes and see it laying on its back,
+    staring at the ceiling with a blank expression. It's just a doll again. You immediately
+    escape from the attic and find your friend in the kitchen.\r\n\"Where have you
+    been?!\" they ask, and you tell them everything that happened last night. \"You
+    must have fallen asleep and had a realistic nightmare,\" they say, and you realize
+    no one will believe you. But that's ok because it's all over. Despite your plans
+    to stay at the cabin for the weekend, you apologize to your friend and go home
+    early.\r\nOnce you're home, you immediately jump into bed. You've never been
+    so happy to be back in your room in your whole life. In fact, you stay in your
+    bed all day long and as the sun's coming down, you only snuggle further into
+    the covers. Just as you're about to fall asleep, you hear something in the corner
+    of your room \u2013 almost like the sound of jingle bells and little porcelain
+    feet hitting the floor. You sit up in bed, your heart pounding. This can't be
+    real, right? you think, but you hear the bells again, only closer now. You're
+    not sure how, but the doll has found you. You hide under the covers, and that's
+    when you feel the doll right on the other side of the blanket, once again whispering
+    those horrible, horrible things. \"Just look,\" the doll says. \"Just one quick
+    peek, and this will all be over. We can be friends then.\""
+  choiceText1: 
+  choiceText2: 
+  nextState:
+  - {fileID: 11400000, guid: c186008e6f75fca49a221cc9e88e4513, type: 2}
+  - {fileID: 11400000, guid: f3476804cdb48cc4cabdef8f542adcbe, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

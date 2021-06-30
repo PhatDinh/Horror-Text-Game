@@ -17,16 +17,7 @@ MonoBehaviour:
 
     Before you, there''s a path
     that leads you deeper into the woods where your friend''s cabin awaits. You''ve
-    been there before but never at nighttime.
-
-
-
-    What do you do ?
-
-    1. Keep
-    walking
-
-    2. Call your friend'
+    been there before but never at nighttime.'
   choiceText1: Keep walking
   choiceText2: Call your friend
   nextState:

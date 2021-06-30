@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: GoingRightScene
+  m_EditorClassIdentifier: 
+  storyText: "You decide to go right. You're pretty sure this is the way. And \u2013
+    look at that \u2013 you were correct! The cabin is just ahead, but... wait a
+    second. The windows are dark. Where's your friend? You knock but no one answers.
+    The front door's unlocked so you go inside and call out for your friend. There's
+    no response. When you try to turn on the light, nothing happens. You take a look
+    at your phone and see that it's on 6%. It's going to die any second. Hmmm, didn't
+    the lights go out the last time you were here? If you remember correctly, your
+    friend said there was a generator in the basement and a flashlight or some candles
+    in the attic."
+  choiceText1: Investigate the attic
+  choiceText2: Investigate the basement
+  nextState:
+  - {fileID: 11400000, guid: 0cd3b9716db1234448ec2f3d5392443d, type: 2}
+  Sound: {fileID: 8300000, guid: 6c19a7d9d1adafe43a94b09448271ce0, type: 3}
+  sprite: {fileID: 21300000, guid: 7180f1ca67385fb45afaebd48c962c46, type: 3}

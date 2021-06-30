@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnd-Doll
+  m_EditorClassIdentifier: 
+  storyText: You can't resist the urge to look so you open your eyes. Standing before
+    you, no bigger than a foot tall, is the doll from the chest, only now there's
+    something more evil and twisted about her face. The last thing you see are those
+    pale, blue eyes gleaming with malice as the doll lunges at you with an inhuman
+    scream, and the world grows dark around you.
+  choiceText1: 
+  choiceText2: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

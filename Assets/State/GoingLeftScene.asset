@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: GoingLeftScene
+  m_EditorClassIdentifier: 
+  storyText: "You decide to go left. You're pretty sure this is the right way. But
+    as you're walking things are getting less and less familiar. Just when you're
+    about to turn around, you think you hear something following you along the path
+    so you decide to pick up your speed. The path leads to a clearing, and you see
+    two cabins \u2013 one of them is painted baby pink and the other looks very old
+    and worn. Through the windows of both cabins, you can see light which means they're
+    both occupied. Maybe one of them has a landline I can use or \u2013 at the very
+    least \u2013 can give me directions, you think. At any rate, you want to get
+    off the path and out of the woods for a bit. Even if the thing following you
+    was just in your imagination, you're still a little spooked."
+  choiceText1: Go to the pink cabin
+  choiceText2: Go to the old cabin
+  nextState: []
+  Sound: {fileID: 8300000, guid: a459ceabff8d15f42ae15f57ca8619b2, type: 3}
+  sprite: {fileID: 0}

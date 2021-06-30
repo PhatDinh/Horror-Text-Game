@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BlowCandle
+  m_EditorClassIdentifier: 
+  storyText: 'You decide to blow out the candle, and for a moment, you''re swallowed
+    by the darkness of the attic. But then, to your horror, the candle flickers back
+    to life. You try and try again to extinguish the flame, but it keeps lighting.
+
+    From
+    behind you, you hear the high-pitched sound of a child''s giggle, the jingle
+    of bells, and tiny footsteps made by little porcelain feet. You''re about to
+    turn toward the footsteps when you see more writing etched into the wall. "DON''T
+    LOOK" it reads. Immediately, you crumble into a ball and back yourself into a
+    corner of the attic, keeping your eyes shut tight. The little footsteps get closer
+    and closer and those bells on her dress keep jingling until you know that the
+    doll is right in front of you.'
+  choiceText1: Look
+  choiceText2: DON'T LOOK
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

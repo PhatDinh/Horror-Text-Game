@@ -12,21 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: CallScene
   m_EditorClassIdentifier: 
-  storyText: 'Before venturing off into the dark on your own, you decide to call
-    your friend to see if they can meet you. But as you''re dialing their number,
-    you realize that you''ll have to turn the flashlight off on your phone if you
-    want to reach them..
-
-    
-
-    What do you do?
-
-    1.Turn the light off
-    to call them
-
-    2.Text them'
-  choiceText1: 
-  choiceText2: 
+  storyText: "Before venturing off into the dark on your own, you decide to call
+    your friend to see if they can meet you. But as you're dialing their number,
+    you realize that you'll have to turn the flashlight off on your phone if you
+    want to reach them..\r\n\r"
+  choiceText1: Turn the light off to call them
+  choiceText2: Text them instead
   nextState:
   - {fileID: 11400000, guid: 2daa25d3143c563498d7858015b27305, type: 2}
   Sound: {fileID: 0}

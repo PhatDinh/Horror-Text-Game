@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: ChestScene
+  m_EditorClassIdentifier: 
+  storyText: "You open the chest and gasp. Inside is a porcelain doll worn ragged
+    from years of neglect. It's clearly been a while since this thing had a child
+    to love it. But despite all the grime and dust, you notice that the doll's eyes
+    look eerily human and that there are little silver bells sewn onto her raggedy
+    dress. But that's not all you find in the chest. There's also a black candle
+    and \u2013 next to that \u2013 a single match. You look at your phone battery.
+    It now says 1%. You'd better hurry and make a decision.\r\n"
+  choiceText1: Light the candle
+  choiceText2: Close the chest and return downstairs
+  nextState:
+  - {fileID: 11400000, guid: bde5a969a0ac7024a928473f8c115304, type: 2}
+  Sound: {fileID: 8300000, guid: 7c15e02d07f51f24b9872434d4c950a6, type: 3}
+  sprite: {fileID: 21300000, guid: 4c706ade6b3c7444f9afe398f9aef7f3, type: 3}

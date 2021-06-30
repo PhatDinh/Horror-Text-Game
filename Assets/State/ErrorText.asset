@@ -20,13 +20,9 @@ MonoBehaviour:
     a move on. The faster you get to the cabin, the better. When you get to a fork
     in the path, you realize that you can''t quite remember which way to go.
 
-    
-
-    What
-    do you do?
-
-    1.Go right
-
-    2. Go left'
+'
+  choiceText1: Go right
+  choiceText2: Go left
   nextState: []
-  Sound: {fileID: 8300000, guid: a459ceabff8d15f42ae15f57ca8619b2, type: 3}
+  Sound: {fileID: 8300000, guid: a09852605fc5c3b45869a3b973c0fbac, type: 3}
+  sprite: {fileID: 0}

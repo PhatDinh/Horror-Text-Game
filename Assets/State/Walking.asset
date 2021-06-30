@@ -12,21 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: Walking
   m_EditorClassIdentifier: 
-  storyText: 'You decide to keep walking. The faster you get to the cabin, the better.
+  storyText: You decide to keep walking. The faster you get to the cabin, the better.
     As you walk, you listen to the sound of the crickets and the wind rustling through
-    the trees. You get to a fork in the path and can''t quite remember which way
-    to go.
-
-
-
-    What do you do?
-
-    1.Go right
-
-    2.Go left'
+    the trees. You get to a fork in the path and can't quite remember which way to
+    go.
   choiceText1: Go Right
   choiceText2: Go Left
   nextState:
-  - {fileID: 11400000, guid: 116af2456fcd03e4695d50f5b0d8eb08, type: 2}
+  - {fileID: 11400000, guid: 97088631111fc3a44a0102a0f6830b10, type: 2}
+  - {fileID: 11400000, guid: 27576b0f8eaa5424a9b12b5a790cd9a2, type: 2}
   Sound: {fileID: 8300000, guid: 1b79e415e63b92a45b5e8f1125b933cc, type: 3}
   sprite: {fileID: 21300000, guid: 36ef2f714a5ea8943a9b5081172ab5c0, type: 3}
