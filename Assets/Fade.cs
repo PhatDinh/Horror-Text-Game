@@ -18,7 +18,7 @@ public class Fade : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        countdownTimer.ResetTimer(5);
+        countdownTimer.ResetTimer(10);
     }
 
     // Update is called once per frame
