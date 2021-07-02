@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnd-HidingWerewolf
+  m_EditorClassIdentifier: 
+  storyText: You decide to take cover behind a tree and hide from the creature. Covering
+    your mouth with your hand, you hope that the thing won't be able to hear your
+    breathing. The beast is so close now, you can hear it growling and sniffing on
+    the other side of tree. It's too late by the time you realize it can smell you.
+    The towering creature begins to circle the tree, and by the looks of its face
+    and gleaming yellow eyes, it's some kind of wolf. But then you realize it's standing
+    on its hind legs and... wait a second. Why is it wearing the tattered remains
+    of your friend's shirt? The creature stops in front of you, revealing its razor-sharp
+    teeth in a snarl. In a way, the wolf creature looks familiar. But it can't possibly
+    be... It lunges and starts to tear into you. As you lie dying on the forest floor,
+    the last thing you hear is a blood curling howl and then everything goes dark.
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

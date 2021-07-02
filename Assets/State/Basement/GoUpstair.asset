@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: GoUpstair
+  m_EditorClassIdentifier: 
+  storyText: Nope, nope, nope! This is way too creepy for you. You run up the stairs
+    and close the basement door behind you. You notice that your heart is beating
+    really hard in your chest, and you laugh at yourself for letting your imagination
+    get the best of you. But that's when you hear the sound of long nails scratching
+    against the cabin windows. You turn toward the sound and see a figure on the
+    other side of the window with long, dark hair and pale eyes.
+  choiceText1: Hide
+  choiceText2: Run
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: d83c012d2c653004a8f9ac7df84310c0, type: 2}
+  - {fileID: 11400000, guid: 753b6db4974646d459d2dc0d2d33d552, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 8616232a9ad2d8b4cb56370ad2964a83, type: 3}

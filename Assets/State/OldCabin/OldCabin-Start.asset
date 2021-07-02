@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: OldCabin-Start
+  m_EditorClassIdentifier: 
+  storyText: 'You decide to knock on the door of the older cabin. There''s no answer
+    so you decide to knock one more time. From the other side of the door, you hear
+    the sound of footsteps and a heavy sigh. An old man in a worn-down flannel answers
+    the door.
+
+    "What do you want?" he asks.
+
+    "I... um, I was hoping I could
+    use your landline."
+
+    ""Don''t have one. Go away!" he says, peeking around
+    the door suspiciously. You respond...'
+  choiceText1: '"Please let me come in"'
+  choiceText2: '"Sorry for bothering you"'
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 0bf6633e6bf5aba45a7eee09c6a8ec9a, type: 2}
+  - {fileID: 11400000, guid: 6a8c87a6cd18baa4880a621bad99eb32, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

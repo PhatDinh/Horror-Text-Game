@@ -15,11 +15,11 @@ D:/Game By Me
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63697
+58572
 Successfully changed project path to: D:/Game By Me
 D:/Game By Me
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 185.02 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 39.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.5f1 (8095aa901b9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,18 +35,349 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007007 seconds.
+Registered in 0.003133 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.50 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 47.96 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.406 seconds
+- Completed reload, in  1.599 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.047489 seconds.
+Registered in 0.000991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 6.635600 ms (FindLiveObjects: 1.714300 ms CreateObjectMapping: 1.164700 ms MarkObjects: 3.587600 ms  DeleteObjects: 0.164800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/State/PinkCabin/PinkCabin-Inside.asset
+  artifactKey: Guid(88595e72eb26aca4d8c65e5b99db111e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Inside.asset using Guid(88595e72eb26aca4d8c65e5b99db111e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656c1fefa879a5ce0c6233fa51128c42') in 0.162413 seconds
+  Import took 0.232449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-Basement.asset
+  artifactKey: Guid(4904897b1d0fa9f4a8867216870ac06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Basement.asset using Guid(4904897b1d0fa9f4a8867216870ac06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd61a2fffbb8db0f96ee45f874e2a06c') in 0.039901 seconds
+  Import took 0.088258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-TheBoy-2.asset
+  artifactKey: Guid(66d7739873adbc8419241d2eeb135f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-TheBoy-2.asset using Guid(66d7739873adbc8419241d2eeb135f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09da39eb3427aafee7d074d7c387f666') in 0.003755 seconds
+  Import took 0.027186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/State/PinkCabin/BadEnd-Spider.asset
+  artifactKey: Guid(68004f733052d1847a37514f8180d0aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/BadEnd-Spider.asset using Guid(68004f733052d1847a37514f8180d0aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61342be44cb0a61735886267a61e339') in 0.038944 seconds
+  Import took 0.124483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-TheBoy.asset
+  artifactKey: Guid(aca824244f57d044882a98c167b11455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-TheBoy.asset using Guid(aca824244f57d044882a98c167b11455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b80acc0a9649497490a46efda9b866') in 0.003453 seconds
+  Import took 0.016580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/State/PinkCabin/BadEnd-Cage.asset
+  artifactKey: Guid(ac3e7ada37be46d46b2a0f24a498877d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/BadEnd-Cage.asset using Guid(ac3e7ada37be46d46b2a0f24a498877d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2295cddc4cb91a5c0a7add1b3122cdb0') in 0.047970 seconds
+  Import took 0.103051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-Decline.asset
+  artifactKey: Guid(9d63dba1f0bb8fc45921258e5e838bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Decline.asset using Guid(9d63dba1f0bb8fc45921258e5e838bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943a6bbc2c527da28c0ac28f8cfecece') in 0.013902 seconds
+  Import took 0.073056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-Terrarium.asset
+  artifactKey: Guid(5de28a6b4a37d0c4aaa6695bcbd07131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Terrarium.asset using Guid(5de28a6b4a37d0c4aaa6695bcbd07131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3856e2ff36d9f27b48caadb79a3c0b') in 0.004258 seconds
+  Import took 0.023706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-Poisoned.asset
+  artifactKey: Guid(00506dc1080b219448da58b77ea2636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Poisoned.asset using Guid(00506dc1080b219448da58b77ea2636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5fb23628c56ee0d126480c107e3a48d') in 0.037441 seconds
+  Import took 0.091830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/State/PinkCabin/BadEnd-Snake.asset
+  artifactKey: Guid(217751bf700c24c46bc5066086bed64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/BadEnd-Snake.asset using Guid(217751bf700c24c46bc5066086bed64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a14da79cb41bf29a633e9c6c1d07b6bc') in 0.058808 seconds
+  Import took 0.081044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-Start.asset
+  artifactKey: Guid(3f299ef773c6e644989058aacfdcaa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Start.asset using Guid(3f299ef773c6e644989058aacfdcaa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c515d50bf4a8cb6bdcd41d5053a0fc') in 0.013226 seconds
+  Import took 0.055518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/State/PinkCabin/BadEnd-Trap.asset
+  artifactKey: Guid(2dbefc079298b3842a367999271bc3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/BadEnd-Trap.asset using Guid(2dbefc079298b3842a367999271bc3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a164849ec8c209c16e576b1c627c28be') in 0.010702 seconds
+  Import took 0.015499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/State/PinkCabin/PinkCabin-Sleep.asset
+  artifactKey: Guid(0ad75004fec750641b3fc75425c3a47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/PinkCabin-Sleep.asset using Guid(0ad75004fec750641b3fc75425c3a47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f05cc81d13ad63a07be42b2edfca61') in 0.046737 seconds
+  Import took 0.051452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/State/PinkCabin/BadEnd-Drown.asset
+  artifactKey: Guid(7dc08d5ddcecc9f48aa7a95f5f40cb12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/PinkCabin/BadEnd-Drown.asset using Guid(7dc08d5ddcecc9f48aa7a95f5f40cb12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff50e68aaf57b4d829184e414672c7f') in 0.051681 seconds
+  Import took 0.077827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 464.385776 seconds.
+  path: Assets/State/ErrorText-1.asset
+  artifactKey: Guid(3946ab752590dc44594790c8c8a37215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/ErrorText-1.asset using Guid(3946ab752590dc44594790c8c8a37215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3eca0feba03a5d9bfec79cac1e5ce0c') in 0.007865 seconds
+  Import took 0.043567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/State/ErrorText-2.asset
+  artifactKey: Guid(2daa25d3143c563498d7858015b27305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/ErrorText-2.asset using Guid(2daa25d3143c563498d7858015b27305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afd62bb093922405e68212488e46dfb') in 0.061914 seconds
+  Import took 0.095619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/State/GoingLeftScene.asset
+  artifactKey: Guid(27576b0f8eaa5424a9b12b5a790cd9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/GoingLeftScene.asset using Guid(27576b0f8eaa5424a9b12b5a790cd9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41b9da7e30961b4a3e198f7ff81e4ab') in 0.014057 seconds
+  Import took 0.019268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/State/ErrorText-3.asset
+  artifactKey: Guid(f631f8472e297b54daeadcf5053a0683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/ErrorText-3.asset using Guid(f631f8472e297b54daeadcf5053a0683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8d74b73f6c713a0be24e51f845549d') in 0.032231 seconds
+  Import took 0.049788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.272661 seconds.
+  path: Assets/State/Forest/BadEnd-HidingWerewolf.asset
+  artifactKey: Guid(c0497ecc323d73748a168dd5cad6ede4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/BadEnd-HidingWerewolf.asset using Guid(c0497ecc323d73748a168dd5cad6ede4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5052e3d0f8420b0866243bb434c199c2') in 0.232260 seconds
+  Import took 0.269881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/State/Forest/Forest-Stuck-2.asset
+  artifactKey: Guid(ab31191bdf226ec40b24d53402a97031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-Stuck-2.asset using Guid(ab31191bdf226ec40b24d53402a97031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e26ac4336f008c6f2377da9b53ccfc2') in 0.046039 seconds
+  Import took 0.085150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/State/Forest/Forest-FindCabin.asset
+  artifactKey: Guid(78e8d9109f954df499996a7350c63cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-FindCabin.asset using Guid(78e8d9109f954df499996a7350c63cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020e80b9db4fdc0ac8cf14fd30424b44') in 0.008096 seconds
+  Import took 0.037100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/State/Forest/Forest-Stuck.asset
+  artifactKey: Guid(aa4cd34e75912804bb10e68765111248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-Stuck.asset using Guid(aa4cd34e75912804bb10e68765111248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424b945087da117ec3304599be8914c4') in 0.009979 seconds
+  Import took 0.138592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/State/Forest/Forest-Fight.asset
+  artifactKey: Guid(3e1bc34165c9ab34a8187a0484330ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-Fight.asset using Guid(3e1bc34165c9ab34a8187a0484330ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3b9897556bc9fb675df8bac2aacfa4') in 0.008310 seconds
+  Import took 0.040286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/State/Forest/GoodEnd-Unknown.asset
+  artifactKey: Guid(f5a6000412979aa43913c6e4c53b5cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/GoodEnd-Unknown.asset using Guid(f5a6000412979aa43913c6e4c53b5cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a3c7a5685f327ae3e57bd8596e234d') in 0.072437 seconds
+  Import took 0.129642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/State/Forest/BadEnd-Stuck.asset
+  artifactKey: Guid(4ad8c90403a77924a9579466819c773b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/BadEnd-Stuck.asset using Guid(4ad8c90403a77924a9579466819c773b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d16af4e708b9a015cbeccd53dfaf74b') in 0.007232 seconds
+  Import took 0.074304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/State/Forest/Forest-Howl.asset
+  artifactKey: Guid(2b44f2851d7322d4a8ca8ef2bc90d998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-Howl.asset using Guid(2b44f2851d7322d4a8ca8ef2bc90d998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d2d047d1648236a7657e7bb378357c') in 0.007906 seconds
+  Import took 0.169739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.596420 seconds.
+  path: Assets/State/Attic/AtticScene-Start.asset
+  artifactKey: Guid(0cd3b9716db1234448ec2f3d5392443d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-Start.asset using Guid(0cd3b9716db1234448ec2f3d5392443d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8df874cd152b757c1c3939670a8103e') in 0.035193 seconds
+  Import took 0.086389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.435185 seconds.
+  path: Assets/State/Attic/AtticScene-Chest.asset
+  artifactKey: Guid(62ea7dd11fa870b4e8a66c3199e00fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-Chest.asset using Guid(62ea7dd11fa870b4e8a66c3199e00fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309665ff2f5a97a9ed05ed929aafc4ac') in 0.052417 seconds
+  Import took 0.104336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.922077 seconds.
+  path: Assets/State/Attic/AtticScene-Doll-A.asset
+  artifactKey: Guid(673776d859ef0714fa00f91a90e01250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-Doll-A.asset using Guid(673776d859ef0714fa00f91a90e01250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7bdd589fcbb7cde6472414e83e8a49') in 0.009642 seconds
+  Import took 0.029151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.152275 seconds.
+  path: Assets/State/Attic/AtticScene-Doll-B.asset
+  artifactKey: Guid(1b298e860ededbf4a8bf51d11f49ffa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-Doll-B.asset using Guid(1b298e860ededbf4a8bf51d11f49ffa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa6ca4a61393fa9ade5f8155dddbe62') in 0.018220 seconds
+  Import took 0.072752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.112249 seconds.
+  path: Assets/State/Attic/AtticScene-Doll.asset
+  artifactKey: Guid(ec9f6a7707948ca40868dc4f87e83971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-Doll.asset using Guid(ec9f6a7707948ca40868dc4f87e83971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '365ae1f560262c3dedd37113339ba719') in 0.008959 seconds
+  Import took 0.057430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.478634 seconds.
+  path: Assets/State/Attic/AtticScene-Candle.asset
+  artifactKey: Guid(bde5a969a0ac7024a928473f8c115304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-Candle.asset using Guid(bde5a969a0ac7024a928473f8c115304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a04bb10f7f4246f48039bc2e859fb9c') in 0.013174 seconds
+  Import took 0.043341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.468147 seconds.
+  path: Assets/State/Attic/AtticScene-LeaveChest.asset
+  artifactKey: Guid(76e52930b425c7649b75b29c31f25948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Attic/AtticScene-LeaveChest.asset using Guid(76e52930b425c7649b75b29c31f25948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97bb54848848cf85e442a6dddac200c') in 0.042675 seconds
+  Import took 0.073281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.871437 seconds.
+  path: Assets/State/Forest/Forest-Wrong.asset
+  artifactKey: Guid(44656363298bbef4d8f95ad4e1604b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-Wrong.asset using Guid(44656363298bbef4d8f95ad4e1604b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d55197e9f6c2f5731bf6094d6f22cb') in 0.031748 seconds
+  Import took 0.063743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.142369 seconds.
+  path: Assets/State/Forest/BadEnd-TheTrue.asset
+  artifactKey: Guid(df78e727d68955f44ae7cfd8f9ae5daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/BadEnd-TheTrue.asset using Guid(df78e727d68955f44ae7cfd8f9ae5daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635b2a45858c8ed9f37a238452f0bb33') in 0.007787 seconds
+  Import took 0.043680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.257137 seconds.
+  path: Assets/State/Forest/BadEnd-TheTrue-2.asset
+  artifactKey: Guid(13825b02ce9a5b941b6bdf27c17940a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/BadEnd-TheTrue-2.asset using Guid(13825b02ce9a5b941b6bdf27c17940a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d448325cc764d18f83906dc6e2be1b3') in 0.007612 seconds
+  Import took 0.049823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.918363 seconds.
+  path: Assets/State/Forest/Forest-Run.asset
+  artifactKey: Guid(878afa1ed112861499a1a66ab89fa3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-Run.asset using Guid(878afa1ed112861499a1a66ab89fa3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da95e3897dbcdc8c2361a99717e936ff') in 0.045981 seconds
+  Import took 0.080144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.972876 seconds.
+  path: Assets/State/Forest/Forest-LeftRoute.asset
+  artifactKey: Guid(e9a172008116bc94180e25db7b9cef14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/Forest-LeftRoute.asset using Guid(e9a172008116bc94180e25db7b9cef14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95fad3876d1787b486a4306d34bf217') in 0.035766 seconds
+  Import took 0.070820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.522805 seconds.
+  path: Assets/State/Forest/GoodEnd-Survive.asset
+  artifactKey: Guid(eceb4c3ccb831d742bb0a2bc538fca7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State/Forest/GoodEnd-Survive.asset using Guid(eceb4c3ccb831d742bb0a2bc538fca7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9b0c5c087547d260ee31d0ecb62b07') in 0.008480 seconds
+  Import took 0.032241 seconds .
+

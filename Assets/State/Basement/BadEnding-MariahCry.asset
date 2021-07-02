@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-MariahCry
+  m_EditorClassIdentifier: 
+  storyText: "You stand and wipe the tears from your eyes. You can't believe that
+    your friend would do this, but hey \u2013 at least a ghost isn't after you, right?
+    You unlock the door and open it. \"I'm so mad at yo\u2013\" you start, but your
+    voice falters when you realize that you're not face to face with your friend
+    at all. It's the figure from the window \u2013 Bloody Mariah, and the last thing
+    you see is the white of her dead, dull eyes."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

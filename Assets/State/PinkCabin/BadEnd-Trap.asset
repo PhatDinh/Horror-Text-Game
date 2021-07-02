@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnd-Trap
+  m_EditorClassIdentifier: 
+  storyText: "You start to make your way down the stairs into the darkness. The stairs
+    creak underneath your feet, and you notice an odd smell that you can't quite
+    place. As you get to the bottom of the staircase, you turn to the lady who's
+    following behind you.\r\nAs soon as your eyes meet, you can tell something is
+    wrong. She hits a switch on the wall, and a metal door comes crashing down between
+    you and the stairs. The lights flicker on, illuminating the basement and revealing
+    it for what it truly is \u2013 a cage.\r\n\"What are you doing? Let me out. Stop
+    playing around,\" you say, banging your firsts against the bars.\r\n\"I tried
+    all the usual pets... fish, dogs, cats. But none of them really brought me any
+    satisfaction. I couldn't keep any of them alive, you see. But you\u2026 I\u2019m
+    going to take very, very good care of you. Forever and ever and ever,\" she says
+    smiling. She walks up the stairs, turns off the light, and closes the door behind
+    her, leaving you to explore your new home all alone in the dark."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

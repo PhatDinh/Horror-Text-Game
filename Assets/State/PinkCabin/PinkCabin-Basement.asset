@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: PinkCabin-Basement
+  m_EditorClassIdentifier: 
+  storyText: '"Sure, ok," you say. You''re a little uncertain, but now your curiosity
+    is piqued. She leads you to a door down the hall. When she opens it, you see
+    a set of stairs leading down to a dark basement.
+
+    "After you," she says
+    with her sweet little smile.'
+  choiceText1: Walk down the stair
+  choiceText2: Change your mind
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 2dbefc079298b3842a367999271bc3e3, type: 2}
+  - {fileID: 11400000, guid: 217751bf700c24c46bc5066086bed64a, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

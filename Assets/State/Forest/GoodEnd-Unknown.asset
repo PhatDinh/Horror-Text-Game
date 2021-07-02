@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: GoodEnd-Unknown
+  m_EditorClassIdentifier: 
+  storyText: "When you wake up, it's morning, and there are birds singing sweetly
+    in the trees. Oh my god... what a nightmare, you think. But if it was just a
+    nightmare, how did you end up in the forest? Maybe you had been sleeping walking.
+    Yes, that has to be it.\r\nAfter dusting yourself off, you walk through the forest
+    and come across your friend's cabin. You let yourself in, and your friend is
+    in the kitchen cooking breakfast.\r\n\"Where were you last night? I was worried
+    about you,\" they say, their back turned as they flip something on the stove.\r\n\"You're
+    not going to believe this, but I had the strangest dream\u2013\" you start, but
+    then your friend turns around, and you see that they have an eyepatch on. On
+    their plate is a raw piece of steak, all red and juicy. Your friend smiles, and
+    their teeth look just a little bit too sharp.\r\n\"It's ok. No hard feelings,\"
+    they say. \"And you don't have to be afraid. At least not right now. The next
+    full moon isn't for another month.\""
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

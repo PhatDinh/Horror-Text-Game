@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-Killer
+  m_EditorClassIdentifier: 
+  storyText: '"No thank you," you say. "I think I should just go home and rest. We
+    can do this again some other night, ok?"
+
+    "Sorry, but I can''t let you do
+    that," your friend says, locking the door behind them.
+
+    "Stop messing around.
+    I need to get out of here," you say, looking for a way out but coming up empty.
+    They have to be kidding though... right? But if that''s the case, why is your
+    heart beating so quickly?
+
+    "You''re not going anywhere," they say and pull
+    a long kitchen knife out from behind them. The last thing you see is a swift
+    glint of silver flash before your face, and then everything goes dark.'
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

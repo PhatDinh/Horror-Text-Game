@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: OldCabin-Inside-2
+  m_EditorClassIdentifier: 
+  storyText: '"Please? I''m begging you. I''m dehydrated," you say.
+
+    With another
+    sigh, the old man stands and says, "Fine. But like I said, don''t go looking
+    up while I''m gone, or you''ll regret it." He disappears into the kitchen, and
+    you''re left all by yourself. You feel your eyes begin to drift upward, but you
+    stop yourself. Unless...'
+  choiceText1: Look up
+  choiceText2: DON'T LOOK UP
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 7fa9bf38ab252644caf0eccf817bda63, type: 2}
+  - {fileID: 11400000, guid: cd020a73d9588994d9ee0f5bd75f91c8, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

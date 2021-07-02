@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-Poisoned
+  m_EditorClassIdentifier: 
+  storyText: "\"Yes, that would be amazing,\" you say, and your friend walks to the
+    kitchen to get started on the tea. As you wait, you remember the Ouija board.
+    How was that thing moving on its own? It's probably just some sort of prank board,
+    right?\r\n\"Here's your tea,\" your friend says, handing you a warm, steaming
+    mug.\r\n\"Thank you,\" you say and take a sup. It tastes slightly bitter, but
+    the warmth calms your nerves. \"So, how did you rig that Ouija Board to move
+    on its own?\"\r\n\"I didn't do anything,\" your friend says, but they sound distant
+    as if they aren't sitting right next to you. In fact, you notice the edges of
+    your vision starting to blur.\r\n\"But the board... it said not the trust...
+    to t-t-tru\u2013\" You realize too late that your tea was poisoned, and the Ouija
+    board was right to tell you to not trust your friend. The world grows dark around
+    you, and the last thing you see before blacking out is your friend's evil smile."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 21300000, guid: a8b21854568e8b843b2ba641562c1fe8, type: 3}

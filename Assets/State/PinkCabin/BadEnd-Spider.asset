@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnd-Spider
+  m_EditorClassIdentifier: 
+  storyText: "\"Where am I?\" you ask. You notice a strange scuttling sound coming
+    from all around.\r\n\"The basement,\" the old lady says. \"It all started with
+    that terrarium, you see. I had two babies in there at first, but they kept multiplying
+    and multiplying. But then my babies grew too big for that little old terrarium
+    so I had to find them a new home. And the basement... well, let's just say that
+    they're absolutely thriving down here.\"\r\nAt that moment, the old lady switches
+    on the lights, and \u2013 to your horror \u2013 you discover the source of the
+    scuttling sound. All around you, from floor to ceiling, are giant spiders. You
+    open your mouth to scream, but the spiders are fast. They begin to climb down
+    your throat before a single sound can escape past your lips."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

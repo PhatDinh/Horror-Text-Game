@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: Forest-FindCabin
+  m_EditorClassIdentifier: 
+  storyText: You leave the two cabins behind you and head back into the woods in
+    search of your friend's cabin. All you want is to find it and hang out with your
+    buddy. Is that too much to ask? You come across a fork in the road, and you think
+    it looks pretty familiar. You...
+  choiceText1: Go right
+  choiceText2: Go left
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: aa4cd34e75912804bb10e68765111248, type: 2}
+  - {fileID: 11400000, guid: aa4cd34e75912804bb10e68765111248, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

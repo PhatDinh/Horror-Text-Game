@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: FindTheTrue
+  m_EditorClassIdentifier: 
+  storyText: "The planchette moves. M-U-R-D-E-R-E-D. \"Murdered? Were you murdered?\"
+    The planchette moves to the upper-left hand corner of the board and circles yes.
+    \"By who? Who murdered you?\" T-U-R-N\u2013O-F-F\u2013T-H-E\u2013L-I-G-H-T-S.
+    \"Sorry, but I'm not doing that. I'm going to ask you again, Mariah. Who murdered
+    you?\" you ask.D-O-N-T\u2013T-R-U-S-T\u2013T-H-E-M. \"Who?\" B-E-H-I-N-D\u2013Y-O-U.
+    You turn expecting to see some sort of masked killer from a horror movie behind
+    you, but instead, you find your friend standing there. \"Oh my god, you scared
+    me,\" you say.\r\n\"What are you doing down here?\" they ask."
+  choiceText1: Tell them
+  choiceText2: '"Nothing" you said'
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 0b575824d366139489e815c1035b744f, type: 2}
+  - {fileID: 11400000, guid: f8c3b38e3a015374daa64a12a1eed0aa, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

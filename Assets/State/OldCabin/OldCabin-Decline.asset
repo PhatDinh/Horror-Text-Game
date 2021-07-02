@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: OldCabin-Decline
+  m_EditorClassIdentifier: 
+  storyText: "\"Sorry for bother you,\" you say. As you step off the porch, you can
+    still feel his eyes on you.\r\n\"Hey kid,\" the old man says, looking at you
+    and then up at the sky. \"It's a full moon tonight. I'd stick to the path if
+    I were you. It's not safe 'round these parts this time of month.\" And with that,
+    he closes the door and locks it behind him. You look up and see that he's correct
+    \u2013 the moon is full. But it's just the moon. It can't hurt you, right? But
+    if that's the case, then why is it making you so nervous...?\r\nForget this place,
+    you think and decide to walk back to your car. As you're searching blindly through
+    the woods, you hear a howl, and it sounds alarmingly close. You pick up the pace
+    and hope that it's just a fox or coyote, but by the sound of it, that doesn't
+    seem likely. It sounds... big. Suddenly, there's a bad feeling in the pit of
+    your stomach, and you freeze. You look down at your feet and see that the path
+    has vanished. You must have accidentally wandered off of it while you were in
+    a hurry. And now there's something really big running through the trees, and
+    it sounds like it's fast and coming right toward you. You realize that running
+    is futile. There are only two options..."
+  choiceText1: Hide
+  choiceText2: Fight
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: c0497ecc323d73748a168dd5cad6ede4, type: 2}
+  - {fileID: 11400000, guid: 3e1bc34165c9ab34a8187a0484330ff6, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

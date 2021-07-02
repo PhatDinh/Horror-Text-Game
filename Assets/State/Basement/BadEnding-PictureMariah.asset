@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-PictureMariah
+  m_EditorClassIdentifier: 
+  storyText: You decide to take another photo. Once again, you turn your flashlight
+    off and aim it toward the spot. You click, and the flash illuminates the room
+    for just a second, but in that single second, you see the haunting face of a
+    blood-soaked woman right in front of your own. Before you can even scream, the
+    ghost grabs your face with its pale hands and opens its mouth wide, wider than
+    any mouth should ever go. It pulls you inside, and everything goes dark. Your
+    friend comes to the cabin the next day because they got their dates mixed up.
+    But all they find in the basement is your phone sitting in the middle of an identical
+    dark spot
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

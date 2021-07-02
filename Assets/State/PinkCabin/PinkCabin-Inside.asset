@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: PinkCabin-Inside
+  m_EditorClassIdentifier: 
+  storyText: '"Tea would be amazing," you say, and she leads you through the house
+    and into her living room where a warm fire is burning in the fireplace.
+
+    "Please,
+    make yourself at home," she says. "I''ll be right back with that tea." The old
+    lady leaves you alone, and you look around the room as you wait for her to return.
+    On the wall, you see two photos. One is a black and white picture of a young
+    boy, and the other is of the old lady but when she was much younger. In the photo,
+    she''s in an old-fashioned nurse uniform. Then you notice an empty terrarium
+    in the corner of the room. Inside it, there''s some dirt and a branch, but it''s
+    otherwise empty from what you can see. Before you can get up to take a closer
+    peek, the old lady returns with your tea.
+
+    "Thank you," you say and take
+    a long sip. It instantly warms you up, and the fear you felt from the woods dissipates.
+    The old lady sits in a rocking chair across from you and smiles, but there''s
+    an awkward silence. To fill it, you decide to ask about...'
+  choiceText1: The photo of the boy
+  choiceText2: The empty terrarium
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: aca824244f57d044882a98c167b11455, type: 2}
+  - {fileID: 11400000, guid: 5de28a6b4a37d0c4aaa6695bcbd07131, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-Mariah
+  m_EditorClassIdentifier: 
+  storyText: '"Go away!" you say, and there''s an inhuman scream on the other side
+    of the door. With one final bang that sounds like a crack of thunder, the door
+    flies off of its hinges, and the ghost of Bloody Mariah stares down at you with
+    those dead, dull eyes. The last things you can recall are a pair of hands lunging
+    at your throat and the smell of decaying flesh.'
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 99c7de1469afb3c44b7877f868e92970, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: Forest-Fight
+  m_EditorClassIdentifier: 
+  storyText: "You decide to go right. As you're running along the path, the creature
+    behind you is gaining quickly. It's too fast. There's no outrunning it. You only
+    have two options.\r\n\r\nYou find a large branch on the ground and pick it up,
+    wielding it like a sword. You hear the beast getting closer and closer. It burst
+    through a line of trees and stands before you, almost two or three feet taller
+    than you. It's on its hind legs yet its face looks almost like a wolf. You wonder
+    what this awful creature could possibly be, but with the full moon high overhead,
+    you think you have a pretty good idea \u2013 werewolf. It lunges at you, and
+    you swing your branch with everything you've got. To your surprise, the branch
+    actually hits the creature in its eye, piercing the skin. The werewolf yelps
+    and claws at the hole where its eye used to be. With its tail tucked between
+    its legs, it runs off whimpering. You look at the end of your branch and see
+    the werewolf's eye still clinging to the end, and the sight makes you faint.
+    You fall to the forest floor, and darkness takes over."
+  choiceText1: Wake up
+  choiceText2: 
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: f5a6000412979aa43913c6e4c53b5cd9, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

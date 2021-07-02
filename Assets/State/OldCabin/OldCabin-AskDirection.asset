@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: OldCabin-AskDirection
+  m_EditorClassIdentifier: 
+  storyText: '".. Um, can you just give me directions to my friends house? I''ll
+    get out of your hair after that," you say.
+
+    "You shouldn''t have come here,"
+    he says. "Something ''bout these parts ain''t normal. It''s like the trees all
+    talk to each other, and they know your deepest fears."
+
+    Part of you wants
+    to roll your eyes, but there''s another part of you that wants to heed his warning
+    and get out of here. You respond...'
+  choiceText1: '"Direction to friend''s cabin , please"'
+  choiceText2: '"Ok, fine. So, how do I get out of here?'
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 2b44f2851d7322d4a8ca8ef2bc90d998, type: 2}
+  - {fileID: 11400000, guid: 9d8ecc9e0e4b7614d88635e784cb8618, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

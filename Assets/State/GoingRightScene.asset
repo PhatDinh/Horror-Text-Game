@@ -23,7 +23,9 @@ MonoBehaviour:
     in the attic."
   choiceText1: Investigate the attic
   choiceText2: Investigate the basement
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: 0cd3b9716db1234448ec2f3d5392443d, type: 2}
+  - {fileID: 11400000, guid: ab8a0996ba5d2e54fb674aa6a324b80f, type: 2}
   Sound: {fileID: 8300000, guid: 6c19a7d9d1adafe43a94b09448271ce0, type: 3}
   sprite: {fileID: 21300000, guid: 7180f1ca67385fb45afaebd48c962c46, type: 3}

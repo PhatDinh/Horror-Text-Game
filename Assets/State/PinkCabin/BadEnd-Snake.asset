@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnd-Snake
+  m_EditorClassIdentifier: 
+  storyText: "\"Um... I actually think I should be going. I'm sure my friend's wondering
+    where I am,\" you say. But as you start to turn around, you feel a hard push
+    from behind and go tumbling down the staircase into the dark. Luckily, when you
+    hit the basement floor, the ground isn\u2019t hard. In fact, it feels soft and
+    almost like... it\u2019s moving? From the top of the staircase, the lady turns
+    the lights on, and you can see why the floor feels like it's moving \u2013 the
+    entire basement is filled with thousands upon thousands of snakes.\r\n\u201CThese
+    are my babies!\u201D the old woman says. \"I started with just one in that empty
+    terrarium you saw, but I couldn't get enough! The one draw back to having so
+    many snakes is... well, they get awfully hungry!\" She closes the door, and you
+    try to scream for help, but a large snake forces its way into your mouth and
+    slithers down your throat and into your stomach."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

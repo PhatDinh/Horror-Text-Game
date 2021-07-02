@@ -24,6 +24,9 @@ MonoBehaviour:
     was just in your imagination, you're still a little spooked."
   choiceText1: Go to the pink cabin
   choiceText2: Go to the old cabin
-  nextState: []
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 3f299ef773c6e644989058aacfdcaa3b, type: 2}
+  - {fileID: 11400000, guid: c8f47a8c31f58034ab6c3104cb8b4739, type: 2}
   Sound: {fileID: 8300000, guid: a459ceabff8d15f42ae15f57ca8619b2, type: 3}
   sprite: {fileID: 0}

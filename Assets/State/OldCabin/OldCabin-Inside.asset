@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: OldCabin-Inside
+  m_EditorClassIdentifier: 
+  storyText: '"Please let me come in. Just for a moment. I''m really freaked out,"
+    you say. The old man sighs and opens his door for you to enter.
+
+    "Fine,
+    suit yourself. C''mon in. But whatever you do... don''t look up," he says, and
+    you follow him into his home. Inside, you see from the corner of your eyes that
+    everything is in shambles, but you do as the man said, and keep your eyes on
+    the floor. You fight the urge to peek. What could possibly be up there that he
+    doesn''t want me to see? you think. The old man leads you to a table covered
+    in dirty dishes and gestures for you to sit.
+
+    "Do you think I could have
+    a glass of water?" you ask after noticing how dry your mouth is.
+
+    "No,"
+    the old man says with a glare. You respond...'
+  choiceText1: '"Please"'
+  choiceText2: '"..."'
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 51fb5bf05df5f8c43b5bc8b905045309, type: 2}
+  - {fileID: 11400000, guid: 234371e3204572846a21b26f51b4c7fc, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

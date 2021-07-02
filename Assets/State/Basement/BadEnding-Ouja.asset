@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-Ouja
+  m_EditorClassIdentifier: 
+  storyText: "\"Where are you right now?\" you ask. The planchette moves. B-E-H-I-N-D\u2013Y-O-U.
+    That's when you feel something hot against the nape of your neck and the sound
+    of ragged breath. Against your better judgement, you slowly turn around and find
+    yourself nose to nose with the bloodied face of a dead woman, her skin rotting
+    and peeling off in places. The last thing you see are a pair of dead, white eyes
+    as Bloody Mariah lunges toward you so fast that you don't even have time to scream."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

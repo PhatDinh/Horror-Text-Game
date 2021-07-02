@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-Vampire
+  m_EditorClassIdentifier: 
+  storyText: "Despite not being able to see, you decide to make a run for it. You
+    push through the cloud of bats with all your might and see that you were right
+    \u2013 it is the front door! As you reach for the door knob, you feel a slight
+    sting on the back of your neck but keep moving forward. This is no time to give
+    up! You burst out of the cabin and run into the forest, leaving the old man and
+    his bats behind. You keep running for as long as you can, wanting to put as much
+    distance as possible between you and that nightmare.\r\nBy the time you finally
+    slow down, you find yourself in a field at dawn. You take a deep breath, relieved
+    that it's all over and watch as the sunrise marks the beginning of a new day.
+    But as the sun rises higher and higher, you start to feel strange and suddenly
+    the open field doesn't seem so peaceful anymore. Why does your skin feel like
+    it's on fire?! Your hand moves up to your neck, and you discover that a bat had
+    bitten you while you were trying to escape. But wait... does that mean I'm a....?
+    you think.\r\nThe sun is almost completely up now as your hand moves to your
+    mouth, and your worst fear is confirmed. Your once-normal canine teeth are now
+    razor-sharp fangs. In horror, you look up at the sun one last time as it bathes
+    you in light. You try to let out a scream, but the sun has already turned your
+    fledgling vampire body into ashes."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

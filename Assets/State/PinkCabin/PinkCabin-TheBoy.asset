@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: PinkCabin-TheBoy
+  m_EditorClassIdentifier: 
+  storyText: "\"Is that your son?\" you ask, gesturing to the picture on the wall.
+    She smiles, but there's a sadness in her eyes.\r\n\"Yes, that was my boy. Sadly,
+    he drowned in a lake when he was only a boy. Not too far from here actually,\"
+    she says.\r\n\"Oh... I'm so sorry for your loss,\" you say, and as the words
+    leave your mouth, you notice the edges of your vision starting to blur. At first,
+    you think you might be getting tired, but then your head starts to spin. Something's
+    not right, you think.\r\n\"Yes, I'm sorry too. But you don't need to be. In fact,
+    you\u2019re doing me and my son a great service. He\u2019s been so lonely all
+    these years, and you\u2019re... well, you're going to keep him company,\" she
+    says. Too late, you realize that the old lady has put something in the tea."
+  choiceText1: Run away
+  choiceText2: Succumb to sleep
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 66d7739873adbc8419241d2eeb135f39, type: 2}
+  - {fileID: 11400000, guid: 0ad75004fec750641b3fc75425c3a47b, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

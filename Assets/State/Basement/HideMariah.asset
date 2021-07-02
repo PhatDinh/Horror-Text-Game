@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: HideMariah
+  m_EditorClassIdentifier: 
+  storyText: You try to let out a scream, but no sound comes out. As the figure of
+    Bloody Mariah stares from behind the glass, you decide to hide so you pick the
+    first door you find. It leads to a small, windowless bathroom. As soon as you
+    lock the door behind you, the doorknob starts to rattle in your hand, and loud
+    knocks seem to make the entire room shake.
+  choiceText1: Cry
+  choiceText2: Scream
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 8390e09b7537d544da88f068ab8ee3ff, type: 2}
+  - {fileID: 11400000, guid: 6bde91328f8613a46957b3d4fc29b0cb, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: BadEnding-Food
+  m_EditorClassIdentifier: 
+  storyText: "When you wake up, you're strapped down to a metal table in a room with
+    no windows. The only source of light is coming from a dangling bulb that glows
+    dimly.\r\n\"You've awoken,\" the voice of the old man says, and his figure appears
+    from out of the shadows. He's even younger now, and his eyes... oh god, they're
+    red.\r\n\"Where am I?\" you ask.\r\n\"You're in my basement.\"\r\n\"What are
+    you going to do \u2013 kill me?\"\r\n\"Oh no, that would be such a waste. Me
+    and my children... we've been so hungry. And you... well, you'll keep on producing
+    blood for years and years and years if we take care of you right.\"\r\nHe goes
+    to check your arm, and you see that he's got a needle inserted in the crook of
+    your elbow that's connected to a tube that leads to a plastic bag full of something
+    solid red... your blood.\r\n\"Yes,\" the old man says with a smile, revealing
+    his set of razor-sharp fangs. \"You're going to keep us well fed for a very,
+    very long time.\" You begin to scream for help, but you know deep down that no
+    one will hear your cries."
+  choiceText1: 
+  choiceText2: 
+  choiceText3: 
+  nextState: []
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

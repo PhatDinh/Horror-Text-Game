@@ -20,6 +20,7 @@ MonoBehaviour:
     been there before but never at nighttime.'
   choiceText1: Keep walking
   choiceText2: Call your friend
+  choiceText3: Go Home
   nextState:
   - {fileID: 11400000, guid: 1965dba11ebe9bc42b3cbe612db3bc8b, type: 2}
   - {fileID: 11400000, guid: 3946ab752590dc44594790c8c8a37215, type: 2}

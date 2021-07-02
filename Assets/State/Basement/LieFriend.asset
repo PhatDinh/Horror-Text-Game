@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: LieFriend
+  m_EditorClassIdentifier: 
+  storyText: "\"Nothing. The lights wouldn't turn on so I started the generator,\"
+    you say.\r\n\"You look scared to death,\" your friend says. \"\"The dark must
+    have really gotten to you. Sorry I was late. I had to pick up a few things from
+    the store. Look at you \u2013 you're shaking. Come upstairs, and I'll make you
+    some tea.\""
+  choiceText1: Accept
+  choiceText2: Decline
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 9afb710877e75fa4a904b6b1ee08213e, type: 2}
+  - {fileID: 11400000, guid: 4e50ad726416c084293c15c685a337c2, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

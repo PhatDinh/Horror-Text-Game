@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: PinkCabin-Poisoned
+  m_EditorClassIdentifier: 
+  storyText: '"Actually, no thanks... I should probably be going. I''m sure my friend
+    is worried about me. I was supposed to get to their place hours ago," you say.
+
+    "Well,
+    that''s perfectly ok. The tea should kick in any second," the old lady says,
+    her friendly face falling into a haunting glare.
+
+    "Wait... what do you mean?"
+    you ask, but that''s when you notice the edges of your vision starting to blur.
+    As the room starts to spin, you feel panic set in. She''s poisoned you!'
+  choiceText1: Try to run
+  choiceText2: Succumb to sleep
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 66d7739873adbc8419241d2eeb135f39, type: 2}
+  - {fileID: 11400000, guid: 0ad75004fec750641b3fc75425c3a47b, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

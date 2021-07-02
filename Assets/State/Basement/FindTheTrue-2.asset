@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: FindTheTrue-2
+  m_EditorClassIdentifier: 
+  storyText: '"You have no idea how happy I am to see you," you say. "I thought I
+    was in a horror movie or something. The lights wouldn''t turn on, and I couldn''t
+    find you, and then there was this board and it said... something about being
+    murdered. I think someone was trying to tell me who killed them... I think they
+    thought it was you. But that''s impossible, right?" You begin to realize how
+    silly your story sounds.
+
+    "And you believe what the board said?" your friend
+    asks you skeptically.'
+  choiceText1: '"Actually... yes."'
+  choiceText2: '"I don''t know "'
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: b769d8f42e4caf249bc02743aa49aed9, type: 2}
+  - {fileID: 11400000, guid: 446f5653a7dd5e0419bf1f78cdaf22f5, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}

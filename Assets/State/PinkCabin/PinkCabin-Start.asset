@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
+  m_Name: PinkCabin-Start
+  m_EditorClassIdentifier: 
+  storyText: 'You start to walk in the direction of the pink cabin. You climb the
+    porch steps and knock on the door. A sweet, old lady in a nightgown answers the
+    door.
+
+    "Hello there," she says. "Why, you look frightened half to death.
+    Are you ok?"
+
+    "Hi. I seem to be a little lost. I was looking for my friend''s
+    cabin, and I got turned around, and now my phone doesn''t have any service. Do
+    you think I could use your phone?"
+
+    "I''m sorry, but I don''t have a phone.
+    But I probably have an old map somewhere. I can make some tea for you to enjoy
+    while I look if you''d like." You look at the other cabin. Maybe they have a
+    phone, you think. On the other hand, tea does sound nice...
+
+'
+  choiceText1: Accept
+  choiceText2: Decline
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 88595e72eb26aca4d8c65e5b99db111e, type: 2}
+  - {fileID: 11400000, guid: 9d63dba1f0bb8fc45921258e5e838bab, type: 2}
+  Sound: {fileID: 0}
+  sprite: {fileID: 0}
