@@ -12,10 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: Forest-Wrong
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
-  choiceText2: 
+  storyText: '"What''s wrong? You don''t sound like yourself," you say.
+
+    "I
+    haven''t felt like myself since... well, since the last time we were here at
+    the cabin together. What was that? About a month ago?" they ask.
+
+    "Something
+    like that," you say. Your entire body feels like it''s starting to shake.
+
+    "Actually,
+    it was exactly a month ago," they say. "I remember because that''s when the last
+    full moon was. That was when you changed and bit me. And now I''m just like you."'
+  choiceText1: Deny it
+  choiceText2: Run
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: df78e727d68955f44ae7cfd8f9ae5daa, type: 2}
+  - {fileID: 11400000, guid: 13825b02ce9a5b941b6bdf27c17940a9, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

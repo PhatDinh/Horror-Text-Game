@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: CandleScene
+  m_Name: AtticScene-Candle
   m_EditorClassIdentifier: 
   storyText: There's no way you're going to let yourself get stuck in the dark with
     no light source. Before you reach for the candle and match, you decide to flip
@@ -23,6 +23,7 @@ MonoBehaviour:
     hear the sound of jingle bells behind you, and your heart drops into your stomach.
   choiceText1: Blow out the candle
   choiceText2: Turn to look at the doll
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: 1c94ef8b70c12214caabbf25f9180e26, type: 2}
   - {fileID: 11400000, guid: ec9f6a7707948ca40868dc4f87e83971, type: 2}

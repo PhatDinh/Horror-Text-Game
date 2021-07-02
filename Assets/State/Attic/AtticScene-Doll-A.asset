@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: Doll-A
+  m_Name: AtticScene-Doll-A
   m_EditorClassIdentifier: 
   storyText: Despite the temptation to look, you keep your eyes shut tight. That's
     when the doll starts to whisper in your ear terrible things that make the hairs
@@ -19,6 +19,7 @@ MonoBehaviour:
     the dolls says in the voice of a young girl.
   choiceText1: Open your eyes
   choiceText2: Keep them shut
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: c186008e6f75fca49a221cc9e88e4513, type: 2}
   - {fileID: 11400000, guid: 1b298e860ededbf4a8bf51d11f49ffa5, type: 2}

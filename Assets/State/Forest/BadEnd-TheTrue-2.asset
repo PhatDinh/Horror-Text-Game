@@ -12,10 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: BadEnd-TheTrue-2
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
+  storyText: "In that moment, it all comes flooding back to you \u2013 your terrible
+    secret and the accident you had a month ago where you bit your friend. You can't
+    stand it anymore... You have to get out of this cabin! And besides... you feel
+    the change starting to take over.\r\nYou burst through the cabin door with an
+    inhuman leap, and when you hit the ground, you're on all fours instead of on
+    two legs. Now you're running faster than any human could, and the woods have
+    come alive around you. You get to a small clearing and raise your fanged mouth
+    to the sky. The moon looks back at you, full and bright. You let out a long,
+    piercing howl, and that's when you smell something... It smells an awful lot
+    like people. Your wolf ears pick up the sound of laughing. It's probably some
+    campers somewhere in the woods. Perfect timing, you think, licking your lips.
+    You were just beginning to get hungry."
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: AtticScene
+  m_Name: AtticScene-Start
   m_EditorClassIdentifier: 
   storyText: 'The attic sounds like a better idea so you search the ceiling for the
     entrance. You find it in the kitchen where you pull the draw string, revealing
@@ -24,7 +24,9 @@ MonoBehaviour:
 '
   choiceText1: Open the chest
   choiceText2: Go downstairs
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: 62ea7dd11fa870b4e8a66c3199e00fd5, type: 2}
+  - {fileID: 11400000, guid: 76e52930b425c7649b75b29c31f25948, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 21300000, guid: 3ed56e87bb23e1e459a947aa5a653bb2, type: 3}

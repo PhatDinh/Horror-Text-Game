@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: Basement
+  m_Name: Basement-Start
   m_EditorClassIdentifier: 
   storyText: 'Looking for the generator sounds like a good plan. As you head for
     the basement door, you remember a scary story your friend told you. It was something

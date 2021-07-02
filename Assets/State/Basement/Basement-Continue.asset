@@ -21,6 +21,6 @@ MonoBehaviour:
   choiceText3: 
   nextState:
   - {fileID: 11400000, guid: fab8f1a60a6d12f4e956f9a1f1e7554e, type: 2}
-  - {fileID: 11400000, guid: 0cd3b9716db1234448ec2f3d5392443d, type: 2}
+  - {fileID: 11400000, guid: 2248bfb8146ec3c45adae2073b6bd51f, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

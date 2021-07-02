@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: GameOver-1
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Thanks for playing <3 '
   choiceText1: Play Again
   choiceText2: 
   choiceText3: 
   nextState:
   - {fileID: 11400000, guid: e544f260370c8c24ca22cd7b01e65e60, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 3a56e511013411e48865064b7d239496, type: 3}

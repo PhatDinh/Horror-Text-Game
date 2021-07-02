@@ -20,24 +20,24 @@ MonoBehaviour:
     "I told
     you not to look," he says with a wicked grin.
 
-    "Why do you have rats on
-    your ceiling?" you ask, and he begins to laugh.
+    "Why do you have rats on your
+    ceiling?" you ask, and he begins to laugh.
 
-    "Rats? No, no, no. Those
-    are bats!"
+    "Rats? No, no, no. Those are
+    bats!"
 
-    You look up, and that''s when you see the wings begin to flap.
-    Suddenly, all around you, the air is swarming with bats. There''s so many, you
-    can''t see anything besides their bodies whirring past your face.
+    You look up, and that''s when you see the wings begin to flap. Suddenly,
+    all around you, the air is swarming with bats. There''s so many, you can''t see
+    anything besides their bodies whirring past your face.
 
-    "These
-    are my children!" the old man cries, and suddenly, he doesn''t look quite so
-    old anymore. "And you... you are our next meal!" This time, as he smiles, you
-    notice a pair of fangs protruding from his mouth, and the hairs on the back of
-    your neck stand on end. No, this can''t be real, you think. You look for an escape,
-    but all you can see is the man and the bats, and... Wait, is that the front door?
-    You can barely make it out, but it could be... Or it could be just another room
-    in this house from hell. You...'
+    "These are my children!"
+    the old man cries, and suddenly, he doesn''t look quite so old anymore. "And
+    you... you are our next meal!" This time, as he smiles, you notice a pair of
+    fangs protruding from his mouth, and the hairs on the back of your neck stand
+    on end. No, this can''t be real, you think. You look for an escape, but all you
+    can see is the man and the bats, and... Wait, is that the front door? You can
+    barely make it out, but it could be... Or it could be just another room in this
+    house from hell. You...'
   choiceText1: Surrender
   choiceText2: Run
   choiceText3: 
@@ -45,4 +45,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9fe6ac200dbc571408dae670f19a8abb, type: 2}
   - {fileID: 11400000, guid: 593a6c64bd9162f4ab796cd281e3662f, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 47f8626d82dbf484b99e4102fc440393, type: 3}

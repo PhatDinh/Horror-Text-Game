@@ -26,9 +26,10 @@ MonoBehaviour:
     "You''re not going anywhere," they say and pull
     a long kitchen knife out from behind them. The last thing you see is a swift
     glint of silver flash before your face, and then everything goes dark.'
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

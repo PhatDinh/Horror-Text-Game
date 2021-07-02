@@ -54,6 +54,14 @@ public class AdventureGame : MonoBehaviour
         //
         textComponent.text = curState.getStateStory();
         choiceComponent1.text = curState.getChoice(1);
+        if (choiceComponent2.text=="")
+        {
+            choice[1].gameObject.SetActive(false);
+        }
+        else
+        {
+            choice[1].gameObject.SetActive(true);
+        }
         choiceComponent2.text = curState.getChoice(2);
 
         //

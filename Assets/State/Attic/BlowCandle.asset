@@ -26,6 +26,9 @@ MonoBehaviour:
     doll is right in front of you.'
   choiceText1: Look
   choiceText2: DON'T LOOK
-  nextState: []
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: c186008e6f75fca49a221cc9e88e4513, type: 2}
+  - {fileID: 11400000, guid: 673776d859ef0714fa00f91a90e01250, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

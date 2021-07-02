@@ -20,9 +20,10 @@ MonoBehaviour:
     all around. \u2013But... that's impossible,\u2013 you think. And that's when
     you realize... the woods have swallowed you whole, and you'll never escape them,
     no matter how far or fast you run."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 63ab94b4def79294cb9ac87432aa1d86, type: 3}

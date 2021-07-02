@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: Forest-LeftRoute
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
-  choiceText2: 
+  storyText: "You take the left path and keep running with everything you've got.
+    After what seems like a mile, you finally find your car and manage to climb inside.
+    Through the windshield, you see the creature burst through a line of trees and
+    stand in front of the car. It's on its hind legs yet its face looks almost like
+    a wolf. For a moment, you wonder what this awful creature could possibly be,
+    but with the full moon high overhead, you think you have a pretty good idea \u2013
+    werewolf. Looking in the backseat, you see that you have a baseball bat you can
+    use as a weapon, but you could also drive away."
+  choiceText1: Fight
+  choiceText2: Drive away
   choiceText3: 
   nextState: []
   Sound: {fileID: 0}

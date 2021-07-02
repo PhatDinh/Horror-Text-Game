@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: Doll-B
+  m_Name: AtticScene-Doll-B
   m_EditorClassIdentifier: 
   storyText: "\"No!\" you scream, refusing to open your eyes. This nightmare continues
     for hours upon hours, and the doll's voice never stops whispering those terrible
@@ -36,6 +36,7 @@ MonoBehaviour:
     peek, and this will all be over. We can be friends then.\""
   choiceText1: 
   choiceText2: 
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: c186008e6f75fca49a221cc9e88e4513, type: 2}
   - {fileID: 11400000, guid: f3476804cdb48cc4cabdef8f542adcbe, type: 2}

@@ -24,9 +24,10 @@ MonoBehaviour:
     to t-t-tru\u2013\" You realize too late that your tea was poisoned, and the Ouija
     board was right to tell you to not trust your friend. The world grows dark around
     you, and the last thing you see before blacking out is your friend's evil smile."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 21300000, guid: a8b21854568e8b843b2ba641562c1fe8, type: 3}

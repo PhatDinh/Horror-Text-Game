@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: Doll
+  m_Name: AtticScene-Doll
   m_EditorClassIdentifier: 
   storyText: "You slowly turn toward the chest, but from where you're standing, you
     can't see inside. You step closer and take a peek only to have your worst fears
@@ -23,6 +23,7 @@ MonoBehaviour:
     jingling until you know that the doll is right in front of you."
   choiceText1: Look
   choiceText2: DONT'T LOOK
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: c186008e6f75fca49a221cc9e88e4513, type: 2}
   - {fileID: 11400000, guid: 673776d859ef0714fa00f91a90e01250, type: 2}

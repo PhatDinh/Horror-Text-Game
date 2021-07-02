@@ -12,10 +12,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: GoodEnd-Survive
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
+  storyText: 'You quickly lock all the doors and get the car running. With the headlights
+    on the creature, it only looks more frightening and inhuman. It lets out a gigantic
+    roar, and you think, I''ve got to get out of here. You hit the gas pedal with
+    the intention of backing out of the parking spot, but the car lurches forward.
+    You accidentally put the vehicle in drive instead of reverse! For just a moment,
+    the werewolf looks like a deer in headlights, and then you hear a crunch as you
+    run over its foot. It roars in agony, and you throw the car into reverse (for
+    real this time). You back out of the spot and start to drive away, leaving the
+    werewolf howling in your wake. You drive all the way home.
+
+    "I thought you
+    were going to your friend''s cabin," you mother says when you enter the house.
+
+    "Had
+    to cancel," you say, knowing that she''d never believe you in a million years.
+    That night, you sleep better than you''ve ever slept before. You sleep so hard
+    that it takes your mom several attempts to wake you.
+
+    "Hey, sleepy head.
+    Get up," she says. You open your eyes and sit up in bed.
+
+    "What''s going
+    on?" you ask.
+
+    "Your friend came by to apologize about last night," she
+    says and points to your doorway. Your friend is standing there with an apologetic
+    smile on their face, but your blood runs cold when you see what''s on their leg.
+    There''s a fresh cast encasing their leg, and you think you might know how they
+    got it.'
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

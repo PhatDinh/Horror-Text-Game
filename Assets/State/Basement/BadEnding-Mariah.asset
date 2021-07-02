@@ -17,9 +17,10 @@ MonoBehaviour:
     flies off of its hinges, and the ghost of Bloody Mariah stares down at you with
     those dead, dull eyes. The last things you can recall are a pair of hands lunging
     at your throat and the smell of decaying flesh.'
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 21300000, guid: 99c7de1469afb3c44b7877f868e92970, type: 3}

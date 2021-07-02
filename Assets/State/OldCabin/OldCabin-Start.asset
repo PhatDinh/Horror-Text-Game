@@ -30,5 +30,5 @@ MonoBehaviour:
   nextState:
   - {fileID: 11400000, guid: 0bf6633e6bf5aba45a7eee09c6a8ec9a, type: 2}
   - {fileID: 11400000, guid: 6a8c87a6cd18baa4880a621bad99eb32, type: 2}
-  Sound: {fileID: 0}
+  Sound: {fileID: 8300000, guid: 6c19a7d9d1adafe43a94b09448271ce0, type: 3}
   sprite: {fileID: 0}

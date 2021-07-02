@@ -12,10 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: BadEnd-TheTrue
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
+  storyText: '"No!" you scream. With surprising speed, you find the door to the bathroom
+    and lock yourself in. Your friend is scratching at the wood, trying to claw their
+    way inside.
+
+    "This is all your fault!" they scream, but it sounds eerily
+    like a howl. "Don''t believe me? Just look in the mirror."
+
+    This can''t
+    possibly be real, you think. But when you go to the mirror and look at your reflection,
+    you gasp. Your eyes are a bright yellow, and your teeth have already started
+    to turn into razor-sharp fangs. Bewildered, you turn to the bathroom window to
+    try and escape, but as you open the window and see the full moon high over head,
+    all you can do is let out a piercing howl and let the change take over.'
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

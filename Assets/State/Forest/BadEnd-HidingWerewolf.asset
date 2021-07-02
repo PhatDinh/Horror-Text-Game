@@ -23,9 +23,10 @@ MonoBehaviour:
     teeth in a snarl. In a way, the wolf creature looks familiar. But it can't possibly
     be... It lunges and starts to tear into you. As you lie dying on the forest floor,
     the last thing you hear is a blood curling howl and then everything goes dark.
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

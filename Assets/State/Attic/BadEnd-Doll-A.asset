@@ -19,8 +19,10 @@ MonoBehaviour:
     night. And maybe you won't look tonight or tomorrow night. Maybe not even a month
     from now or even years. But one day, I'll wear you down, and you'll look. And
     then... on that glorious night... I'll eat your soul."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
-  nextState: []
+  choiceText3: 
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 756b662014b6fb34a9492af6cbaf4c5a, type: 3}

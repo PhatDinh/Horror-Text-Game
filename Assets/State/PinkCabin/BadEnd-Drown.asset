@@ -25,9 +25,10 @@ MonoBehaviour:
     of you are going to be spending a lot of time together. As you struggle for air,
     everything starts to go black, and the last thing you see are the two holes where
     the old lady's son's eyes use to be staring back at you."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 463c31d383d54a84b8d91573d2e7433f, type: 3}

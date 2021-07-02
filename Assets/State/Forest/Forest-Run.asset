@@ -12,10 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: Forest-Run
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
-  choiceText2: 
+  storyText: 'Before your friend can say another word, you''re sprinting out the
+    door and towards your car. Luckily, the full moon is so bright that it''s lighting
+    your path. Behind you, you hear your friend screaming in agony, and you almost
+    turn around. But then the scream transforms into a howl, and you decide to keep
+    running. You get to a fork in the path and can''t exactly remember which way
+    is the way back to the car. But you can''t hesitate. You have to choose quickly
+    because you think you hear something large and fast coming your way.
+
+'
+  choiceText1: Go right
+  choiceText2: Go left
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 3e1bc34165c9ab34a8187a0484330ff6, type: 2}
+  - {fileID: 11400000, guid: eceb4c3ccb831d742bb0a2bc538fca7b, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

@@ -18,9 +18,10 @@ MonoBehaviour:
     yourself nose to nose with the bloodied face of a dead woman, her skin rotting
     and peeling off in places. The last thing you see are a pair of dead, white eyes
     as Bloody Mariah lunges toward you so fast that you don't even have time to scream."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

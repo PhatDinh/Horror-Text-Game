@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
-  m_Name: ChestScene
+  m_Name: AtticScene-Chest
   m_EditorClassIdentifier: 
   storyText: "You open the chest and gasp. Inside is a porcelain doll worn ragged
     from years of neglect. It's clearly been a while since this thing had a child
@@ -21,7 +21,9 @@ MonoBehaviour:
     It now says 1%. You'd better hurry and make a decision.\r\n"
   choiceText1: Light the candle
   choiceText2: Close the chest and return downstairs
+  choiceText3: 
   nextState:
   - {fileID: 11400000, guid: bde5a969a0ac7024a928473f8c115304, type: 2}
+  - {fileID: 11400000, guid: 76e52930b425c7649b75b29c31f25948, type: 2}
   Sound: {fileID: 8300000, guid: 7c15e02d07f51f24b9872434d4c950a6, type: 3}
   sprite: {fileID: 21300000, guid: 4c706ade6b3c7444f9afe398f9aef7f3, type: 3}

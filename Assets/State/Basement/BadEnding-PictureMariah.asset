@@ -21,9 +21,10 @@ MonoBehaviour:
     friend comes to the cabin the next day because they got their dates mixed up.
     But all they find in the basement is your phone sitting in the middle of an identical
     dark spot
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 5302d90d47dbc84429e4e4b91fa5869b, type: 3}

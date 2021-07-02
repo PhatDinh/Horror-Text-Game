@@ -35,9 +35,10 @@ MonoBehaviour:
     second until you feel them running down your throat. You try to scream, but the
     algae is taking over faster and faster. All you can see is green spores filling
     up your eyes, and that''s when everything goes dark..'
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

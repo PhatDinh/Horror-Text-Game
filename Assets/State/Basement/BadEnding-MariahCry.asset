@@ -17,10 +17,11 @@ MonoBehaviour:
     You unlock the door and open it. \"I'm so mad at yo\u2013\" you start, but your
     voice falters when you realize that you're not face to face with your friend
     at all. It's the figure from the window \u2013 Bloody Mariah, and the last thing
-    you see is the white of her dead, dull eyes."
-  choiceText1: 
+    you see is the black of her dead, dull eyes."
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 5302d90d47dbc84429e4e4b91fa5869b, type: 3}

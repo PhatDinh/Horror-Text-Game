@@ -25,9 +25,10 @@ MonoBehaviour:
     their teeth look just a little bit too sharp.\r\n\"It's ok. No hard feelings,\"
     they say. \"And you don't have to be afraid. At least not right now. The next
     full moon isn't for another month.\""
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

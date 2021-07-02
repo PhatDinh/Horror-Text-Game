@@ -30,9 +30,10 @@ MonoBehaviour:
     razor-sharp fangs. In horror, you look up at the sun one last time as it bathes
     you in light. You try to let out a scream, but the sun has already turned your
     fledgling vampire body into ashes."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: a04ec1864e2267145890f01fcdb5731c, type: 3}

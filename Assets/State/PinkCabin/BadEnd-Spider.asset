@@ -22,9 +22,10 @@ MonoBehaviour:
     scuttling sound. All around you, from floor to ceiling, are giant spiders. You
     open your mouth to scream, but the spiders are fast. They begin to climb down
     your throat before a single sound can escape past your lips."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

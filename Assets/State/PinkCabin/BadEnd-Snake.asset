@@ -24,9 +24,10 @@ MonoBehaviour:
     many snakes is... well, they get awfully hungry!\" She closes the door, and you
     try to scream for help, but a large snake forces its way into your mouth and
     slithers down your throat and into your stomach."
-  choiceText1: 
+  choiceText1: The end
   choiceText2: 
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 553d627297fe19640a4a406a4b3225f2, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}

@@ -12,10 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb64230be7e261a4d8812559ce6aba2f, type: 3}
   m_Name: AtticScene-LeaveChest
   m_EditorClassIdentifier: 
-  storyText: 
-  choiceText1: 
-  choiceText2: 
+  storyText: "You decide to take your chances in the dark and return downstairs.
+    Sure, the dark sucks, but you were getting some pretty bad vibes from that chest.\r\n\"Hello,\"
+    a voice says from the living room, and you nearly jump out of your skin when
+    you see a shadowy figure a few feet away. But then you recognize the outline
+    \u2013 it's your friend.\r\n\"Oh my god, where have you been? The lights won't
+    turn on, and I've been seriously freaking out!\"\r\n\"Sorry I'm so late. My head...
+    hasn't felt right all evening,\" they say, and you notice something weird about
+    their voice. It almost sounds... deeper than usual? The hairs on the back of
+    your neck stand up, but you're not entirely sure why. Your friend takes a step
+    closer, and a patch of moonlight coming in through the window illuminates their
+    face. And their eyes... it's like they changed from their normal color to a strange
+    yellow. And their teeth... Oh god, their teeth. Why are they so pointy?"
+  choiceText1: Ask what's wrong with them
+  choiceText2: Run.
   choiceText3: 
-  nextState: []
+  nextState:
+  - {fileID: 11400000, guid: 44656363298bbef4d8f95ad4e1604b2b, type: 2}
+  - {fileID: 11400000, guid: 878afa1ed112861499a1a66ab89fa3d1, type: 2}
   Sound: {fileID: 0}
   sprite: {fileID: 0}
